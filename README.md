@@ -3,4 +3,9 @@ This project uses a Convolutional Neural Network(CNN) to classify images in one 
 The network was trained using data from the UKBench Dataset(negative samples) and images of pizzas downloaded from
 Google Images(positive samples). 
 
-![Screenshot](result/result1.jpg?raw=true "Classified correctly as pizza")
+
+### Classified correctly as pizza
+![](https://github.com/Sowmiya2497/Not-Pizza/blob/master/result/result1.JPG)
+
+### Classified correctly as not pizza
+![](https://github.com/Sowmiya2497/Not-Pizza/blob/master/result/result4.JPG)
