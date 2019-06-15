@@ -34,7 +34,7 @@ class LeNet:
 
 		model.add(Flatten())
 
-		#Add 500 nodes in hidden layer of fully connected network
+		
 		model.add(Dense(500))
 		model.add(Activation('relu'))
 
